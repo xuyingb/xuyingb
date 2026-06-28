@@ -1,8 +1,9 @@
 通用求邀请信息
 
-
+```markdown
 预注册id: alicegua
 邮箱: liyunheloveyou@gmail.com
+```
 
 PTPP:
 <img width="1950" height="4188" alt="alicegua的时间轴（2026-06-28 20_22_22）" src="https://github.com/user-attachments/assets/01ae770a-3693-40e8-a87d-703fed01965e" />
